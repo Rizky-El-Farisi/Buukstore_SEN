@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1044032280349",
+    "firebase_url": "https://realtime-db-web-e540b.firebaseio.com",
+    "project_id": "realtime-db-web-e540b",
+    "storage_bucket": "realtime-db-web-e540b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044032280349:android:97ad1bc4b3fcdf9b9073f4",
+        "android_client_info": {
+          "package_name": "com.example.buukstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044032280349-ppgcst59fvmbjm41i5s0c2v1410omrar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTGP5vSMSHyliBvomiB5yRk-Yf-4SUu6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044032280349-ppgcst59fvmbjm41i5s0c2v1410omrar.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
